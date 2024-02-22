@@ -7,7 +7,7 @@
 ## Lista de paragrafos:
 1. Criar em Python um pequeno conversor de MarkDown para HTML para os elementos descritos na "Basic Syntax" da Cheat Sheet:
     - Cabeçalhos: linhas iniciadas por "# texto", ou "## texto" ou "### texto"
-        In: # Exemplo
+        In: #_Exemplo
         Out: <h1>Exemplo</h1>
     - Bold: pedaços de texto entre "**":
         In: Este é um **exemplo** ...
