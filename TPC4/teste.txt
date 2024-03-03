@@ -1,0 +1,3 @@
+SeLecT iD, Nome, salArio fRoM eMpregados WHeRe sAlario >= 822
+selectidnome salariofrom empregadoswhere 
+SELECT id, nome, salario FROM empregados WHERE salario >= 820
