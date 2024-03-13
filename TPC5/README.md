@@ -1,4 +1,4 @@
-# TPC4: Máquina de Vending
+# TPC5: Máquina de Vending
 
 ## Autor:
 - Miguel Ângelo Martins Guimarães
