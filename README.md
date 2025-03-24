@@ -1,4 +1,4 @@
-# Language Processing
+# Compiler Design
 
 **Author:** Miguel Guimarães [(Github)](https://github.com/miguel-amg).
 
@@ -9,6 +9,6 @@
 ***
 
 # Description
-This repository contains the practical assignments developed during the Language Processing classes.
+This repository contains the practical assignments developed during the Compiler Design classes.
 
 Each folder contains a readme file explaining the assignement and the code that was developed.
