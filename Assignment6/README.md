@@ -1,4 +1,4 @@
-# Language Processing
+# Compiler Design
 
 **Author:** Miguel Guimarães [(Github)](https://github.com/miguel-amg).
 
