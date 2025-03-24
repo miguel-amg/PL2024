@@ -1,8 +1,7 @@
 # TPC1: Análise de um dataset
 
 ## Autor:
-- Miguel Ângelo Martins Guimarães
-- a100837
+- Miguel Guimarães
 
 ## Lista de paragrafos:
 1. Proibido usar o módulo CSV;

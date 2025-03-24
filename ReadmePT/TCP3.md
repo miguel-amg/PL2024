@@ -1,8 +1,7 @@
 # TPC3: Somador on/off
 
 ## Autor:
-- Miguel Ângelo Martins Guimarães
-- a100837
+- Miguel Guimarães
 
 ## Lista de paragrafos:
 1. Pretende-se um programa que some todas as sequências de dígitos que encontre num texto;

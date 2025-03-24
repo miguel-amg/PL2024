@@ -1,8 +1,7 @@
 # TPC4: Analisador léxico
 
 ## Autor:
-- Miguel Ângelo Martins Guimarães
-- a100837
+- Miguel Guimarães
 
 ## Tarefas:
 1. Pretende-se construir um analisador léxico para:

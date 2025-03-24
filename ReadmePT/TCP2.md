@@ -1,8 +1,7 @@
 # TPC2: Conversor de MD para HTML
 
 ## Autor:
-- Miguel Ângelo Martins Guimarães
-- a100837
+- Miguel Guimarães
 
 ## Lista de paragrafos:
 1. Criar em Python um pequeno conversor de MarkDown para HTML para os elementos descritos na "Basic Syntax" da Cheat Sheet:

@@ -1,13 +1,11 @@
 # TPC6: Gramática Independente de contexto LL(1)
 ## Autor:
-- Miguel Ângelo Martins Guimarães
-- a100837
+- Miguel Guimarães
 
 ## Tarefas:
 - Criar gramática independente de contexto LL(1)
 - Garantir prioridade dos operadores
 - Calcular todos os lookaheads 
-
 
 **Operandos:**
 
@@ -22,6 +20,3 @@ b = a * 2 / (27-3)
 ! a + b
 c = a * b / (a/b)
 ```
-
-## Exemplos:
-

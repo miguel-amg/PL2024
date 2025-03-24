@@ -1,8 +1,7 @@
 # TPC5: Máquina de Vending
 
 ## Autor:
-- Miguel Ângelo Martins Guimarães
-- a100837
+- Miguel Guimarães
 
 ## Tarefas:
 - Simular uma máquina de vending.
